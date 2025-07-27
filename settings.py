@@ -1,6 +1,6 @@
-TOKEN = "" # ID БОТА ИЗ @BOTFATHER
+TOKEN = "8257696913:AAHbIIhaUDUQEkBSrJn3oZsBIQeEp-zl4uI" # ID БОТА ИЗ @BOTFATHER
 
-channel_ids = [-0]  # АЙДИ КАНАЛА
+channel_ids = [-4874140935]  # АЙДИ КАНАЛА
 
-admins = [0]   # АЙДИ ВЛАДЕЛЬЦА
+admins = [7144698256]   # АЙДИ ВЛАДЕЛЬЦА
     
